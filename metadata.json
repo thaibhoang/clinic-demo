@@ -1,0 +1,6 @@
+{
+  "name": "Nha Khoa Quốc Tế Aura Dental - Kiến Tạo Nụ Cười Rạng Rỡ",
+  "description": "Hệ thống nha khoa thẩm mỹ & điều trị kỹ thuật cao Aura Dental. Đặt lịch khám trực tuyến nhanh chóng, danh sách dịch vụ chi tiết, bảng giá niêm yết minh bạch và đánh giá từ khách hàng thực tế.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
